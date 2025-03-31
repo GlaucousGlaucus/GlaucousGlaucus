@@ -16,7 +16,6 @@
 
 
 <h1> What I Have Been Upto</h1>
-<p><img align="center" style="padding=0; width:500px;" src="https://cat-stats.vercel.app/api/?username=GlaucousGlaucus&theme=github_dark&layout=compact&show_icons=true&hide_border=true&rank_icon=github&count_private=true" />
-  <img align="center" style="padding=0; width:380px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=github_dark&layout=compact&show_icons=true&hide_border=true&count_private=true" /></p>
+<p><img align="center" style="padding=0; width:380px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=github_dark&layout=compact&show_icons=true&hide_border=true&count_private=true" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GlaucousGlaucus&theme=github_dark&" alt="GlaucousGlaucus" /></p>
 </div>
