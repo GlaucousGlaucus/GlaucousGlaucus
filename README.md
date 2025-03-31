@@ -16,6 +16,5 @@
 
 
 <h1> What I Have Been Upto</h1>
-<p><img align="center" style="padding=0; width:380px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=highcontrast&layout=compact&show_icons=true&hide_border=true&count_private=true" /></p>
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=highcontrast&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&card_height=170" alt="GitHub Streak" /></a></p>
+<p><img align="center" style="padding=0; width:380px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=highcontrast&layout=compact&show_icons=true&hide_border=true&count_private=true" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=highcontrast&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&card_height=170" alt="GitHub Streak" /></a></p>
 </div>
