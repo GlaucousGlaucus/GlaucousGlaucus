@@ -18,7 +18,7 @@ jobs:
 
           user: GlaucousGlaucus
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Kolkata
           plugin_followup: yes
           plugin_followup_sections: repositories
