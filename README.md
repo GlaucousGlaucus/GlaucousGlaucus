@@ -5,6 +5,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=highcontrast&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&card_height=120" alt="GitHub Streak" /></a>
 </p>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="github-metrics.svg" alt="Metric" />
+</td>
+<td valign="top" width="50%">
+
 <h1>Worked With</h1>
 <img src="https://img.shields.io/badge/-Java-black?logo=oracle&style=for-the-badge&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/-SQL-black?logo=mysql&style=for-the-badge&logoColor=blue"></img>
