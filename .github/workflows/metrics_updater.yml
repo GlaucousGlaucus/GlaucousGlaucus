@@ -3,15 +3,19 @@ on:
   schedule: [{cron: "30 20 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+
           user: GlaucousGlaucus
           template: classic
           base: header, activity, community, repositories, metadata
