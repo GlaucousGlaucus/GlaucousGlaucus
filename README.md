@@ -1,8 +1,8 @@
 <div align="center">
 
-<p>
-  <img style="padding=0; width:300px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=tokyonight&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&card_height=120" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlaucousGlaucus&theme=tokyonight" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=tokyonight&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="35%">
 </p>
 
 <table>
@@ -13,6 +13,9 @@
 <td valign="top" width="50%">
 
 <h1>Worked With</h1>
+<p>
+  <img style="padding=0; width:300px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&count_private=true"/>
+</p>
 <img src="https://img.shields.io/badge/-Java-black?logo=oracle&style=for-the-badge&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/-SQL-black?logo=mysql&style=for-the-badge&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/-Linux-black?logo=arch-linux&style=for-the-badge&logoColor=blue"></img>
