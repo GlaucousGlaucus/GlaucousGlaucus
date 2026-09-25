@@ -1,26 +1,25 @@
-<div align="center">
+## GlaucousGlaucus (**Arpit Benjamin**)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlaucousGlaucus&theme=tokyonight" width="60%">
-</p>
+Software developer working primarily with C++, Python and Qt.
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GlaucousGlaucus&theme=tokyonight&hide_border=true&border_radius=2&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="35%">
-  <img style="padding=0; width:300px;" src="https://cat-stats.vercel.app/api/top-langs/?username=GlaucousGlaucus&theme=tokyonight&layout=compact&show_icons=true&hide_border=true&count_private=true"/>
-</p>
+Currently building **Pinnacle Dynamo**, a presentation and media system for live environments.
 
-<h1>Worked With</h1>
-<img src="https://img.shields.io/badge/-Java-black?logo=oracle&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-SQL-black?logo=mysql&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-Linux-black?logo=arch-linux&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-Qt-black?logo=qt&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-C++-black?logo=cplusplus&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-OpenGL-black?logo=opengl&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-FFmpeg-black?logo=ffmpeg&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-C-black?logo=c&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-C Sharp-black?logo=.net&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-Javascript-black?logo=javascript&style=for-the-badge&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/-Flask-black?logo=flask&style=for-the-badge&logoColor=blue"></img>
+Also contributed to VLC's Qt/QML interface through Google Summer of Code 2025.
 
-</div>
+### Featured work
+
+<a href="https://youtu.be/2FNCVczGfAo?si=MA6sGET3jm3DG9Q_">
+  <img
+    src="https://img.youtube.com/vi/2FNCVczGfAo/maxresdefault.jpg"
+    width="600"
+    alt="Pinnacle Dynamo — 98-Second Demo"
+  />
+</a>
+
+**Pinnacle Dynamo** — [Watch the 98-second demo](https://youtu.be/2FNCVczGfAo?si=MA6sGET3jm3DG9Q_)
+
+**Google Summer of Code 2025 · VideoLAN** — [Final Project Report](https://code.videolan.org/GlaucousGlaucus/gsoc-2025-project-report-videolan)
+
+### Currently working with
+
+C++ · Python · Qt/QML · OpenGL · FFmpeg · Linux · CMake
